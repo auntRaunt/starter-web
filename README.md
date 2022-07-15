@@ -11,4 +11,4 @@ This is a deployment blalala
 Please fork this repository and then issue Pull Requests for review.
 
 
-2014 Git.Traning
+2014 Git.Traning Alright reserved
