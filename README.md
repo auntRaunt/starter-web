@@ -7,5 +7,7 @@ This is a purpose
 ## Deployment
 This is a deployment blalala
 ## How To Contribute
+Please fork this repository and then issue Pull Requests for review.
+
 
 2014 Git.Traning
